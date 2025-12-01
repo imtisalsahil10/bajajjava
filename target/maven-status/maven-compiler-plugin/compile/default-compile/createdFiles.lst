@@ -1,0 +1,8 @@
+com\bajajfintech\javaqualifier\dto\WebhookGenerationRequest.class
+com\bajajfintech\javaqualifier\config\RestTemplateConfig.class
+com\bajajfintech\javaqualifier\JavaQualifierApplication.class
+com\bajajfintech\javaqualifier\service\WebhookService.class
+com\bajajfintech\javaqualifier\dto\WebhookGenerationResponse.class
+com\bajajfintech\javaqualifier\dto\SolutionSubmissionRequest.class
+com\bajajfintech\javaqualifier\runner\QualifierRunner.class
+com\bajajfintech\javaqualifier\service\SqlQueryService.class
